@@ -1,0 +1,54 @@
+  #supra{
+    border-color:blue;
+    width: 450px;
+  }
+
+  #supra:hover{
+    width: 720px;
+    border-radius: 15px;
+    border-color: #339966;
+  }
+
+  #m2{
+    border-color:red;
+    width: 450px;
+  }
+
+  #m2:hover{
+    width: 720px;
+    border-radius: 15px;
+    border-color: #E1FF4D;
+  }
+
+  .headings{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    color: #1A27FF;
+    font-style:itlic;
+    text-decoration: underline solid rgb(68, 68, 68);
+  }
+
+  .prices{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-style:italic;
+  }
+
+  a:visited {
+    color: red;
+  }
+
+  h1{
+    font-family: Impact, Charcoal, sans-serif;
+  }
+
+  #submit-btn:hover{
+    background-color: orange;
+    color: white;
+  }
+
+  input:focus{
+    background-color: green
+  }
+
+  input:focus{
+    background-color: green
+  }
